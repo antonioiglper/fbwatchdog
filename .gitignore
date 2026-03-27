@@ -1,0 +1,18 @@
+# Python env
+.venv/
+
+# IDE files
+.idea/
+
+# Ignore main.py helper file if you only deploy streamlit_app
+main.py
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# env files
+.env
